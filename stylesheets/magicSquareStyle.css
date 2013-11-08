@@ -1,0 +1,46 @@
+/*
+Ray Nimmo 05005802
+CO32018 Internet Programming
+Stylesheet for java puzzle 'The Magic Square'
+*/
+
+
+.noscript_text{
+	font-size: 18pt;
+	color: Red;
+	font-weight: bold;
+}
+body{
+	background-color: Yellow;
+}
+h1{
+	color: Blue;
+	font-weight: bold;
+	font-family: Wizardry;
+}
+h2{
+	color: Blue;
+}
+.instructions_header{
+	font-size: 16pt;
+	color: Navy;
+	font-weight: bold;
+}
+.instructions_text{
+	font-weight: bolder;
+	color: Blue;
+	font-size: 14pt;
+}
+.mailto_tag{
+	color: Red;
+	font-size: 14pt;
+	font-family: X-Files;
+}
+hr{
+	color: Red;
+	font-size: 72pt;
+	font-weight: bolder;
+}
+.boardImage{
+	text-align: center;
+}
